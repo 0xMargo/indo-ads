@@ -412,30 +412,31 @@
 0.0.0.0 lgappstv.com
 
 #my list
-e.dtscout.com
-i0.wp.com
-i1.wp.com
-i3.wp.com
-s10.histats.com
-s4.histats.com
-scontent-cgk1-1.xx.fbcdn.net
-ssl.gstatic.com
-static.getbutton.io
-static.xx.fbcdn.net
-ap.lijit.com
-ce.lijit.com
-cm.g.doubleclick.net
-connect-metrics-collector.s-onetag.com
-e.dtscout.com
-get.s-onetag.com
-i.liadm.com
-pixel.onaudience.com
-px.owneriq.net
-s4.histats.com
-static.getbutton.io
-t.dtscdn.com
-t.dtscout.com
-
+0.0.0.0 e.dtscout.com
+0.0.0.0 i0.wp.com
+0.0.0.0 i1.wp.com
+0.0.0.0 i3.wp.com
+0.0.0.0 s10.histats.com
+0.0.0.0 s4.histats.com
+0.0.0.0 scontent-cgk1-1.xx.fbcdn.net
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 static.getbutton.io
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 ap.lijit.com
+0.0.0.0 ce.lijit.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 connect-metrics-collector.s-onetag.com
+0.0.0.0 e.dtscout.com
+0.0.0.0 get.s-onetag.com
+0.0.0.0 i.liadm.com
+0.0.0.0 pixel.onaudience.com
+0.0.0.0 px.owneriq.net
+0.0.0.0 static.getbutton.io
+0.0.0.0 t.dtscdn.com
+0.0.0.0 t.dtscout.com
+0.0.0.0 data-beacons.s-onetag.com
+0.0.0.0 mytools.management
+0.0.0.0 p.adsymptotic.com
 
 #now i know that pihole does block ip too, so
 # DELETE ALL THE GAMBLE ADS
