@@ -437,6 +437,28 @@
 0.0.0.0 data-beacons.s-onetag.com
 0.0.0.0 mytools.management
 0.0.0.0 p.adsymptotic.com
+0.0.0.0 a.dtssrv.com
+0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 c1.adform.net
+0.0.0.0 d.turn.com
+0.0.0.0 dt-secure.videohub.tv
+0.0.0.0 fei.pro-market.net
+0.0.0.0 fi.hartalshier.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 id5-sync.com
+0.0.0.0 map.sddan.com
+0.0.0.0 onetag-geo.s-onetag.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 scontent-cgk1-1.xx.fbcdn.net
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 syenitetatler.tech
+0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 sync.sharethis.com
+0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 vpod1q.qa.lijit.com
+0.0.0.0 www.gstatic.com
+0.0.0.0 x.bidswitch.net
+0.0.0.0 x01.aidata.io
 
 #now i know that pihole does block ip too, so
 # DELETE ALL THE GAMBLE ADS
