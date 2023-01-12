@@ -459,6 +459,14 @@
 0.0.0.0 www.gstatic.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x01.aidata.io
+0.0.0.0 blogger.googleusercontent.com
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 qb.cizecedens.com
+0.0.0.0 i2.wp.com
+0.0.0.0 snacklink.id
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 metamask.github.io
+0.0.0.0 oploverz-5.disqus.com
 
 #now i know that pihole does block ip too, so
 # DELETE ALL THE GAMBLE ADS
