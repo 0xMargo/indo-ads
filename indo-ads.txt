@@ -7563,64 +7563,6 @@
 127.0.0.1	tpc.googlesyndication.com
 127.0.0.1	adclick.g.doubleclick.net
 
-#my list
-0.0.0.0 e.dtscout.com
-0.0.0.0 i0.wp.com
-0.0.0.0 i1.wp.com
-0.0.0.0 i3.wp.com
-0.0.0.0 s10.histats.com
-0.0.0.0 s4.histats.com
-0.0.0.0 scontent-cgk1-1.xx.fbcdn.net
-0.0.0.0 ssl.gstatic.com
-0.0.0.0 static.getbutton.io
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 ap.lijit.com
-0.0.0.0 ce.lijit.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 connect-metrics-collector.s-onetag.com
-0.0.0.0 e.dtscout.com
-0.0.0.0 get.s-onetag.com
-0.0.0.0 i.liadm.com
-0.0.0.0 pixel.onaudience.com
-0.0.0.0 px.owneriq.net
-0.0.0.0 static.getbutton.io
-0.0.0.0 t.dtscdn.com
-0.0.0.0 t.dtscout.com
-0.0.0.0 data-beacons.s-onetag.com
-0.0.0.0 mytools.management
-0.0.0.0 p.adsymptotic.com
-0.0.0.0 a.dtssrv.com
-0.0.0.0 bcp.crwdcntrl.net
-0.0.0.0 c1.adform.net
-0.0.0.0 d.turn.com
-0.0.0.0 dt-secure.videohub.tv
-0.0.0.0 fei.pro-market.net
-0.0.0.0 fi.hartalshier.com
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 id5-sync.com
-0.0.0.0 map.sddan.com
-0.0.0.0 onetag-geo.s-onetag.com
-0.0.0.0 pixel.tapad.com
-0.0.0.0 scontent-cgk1-1.xx.fbcdn.net
-0.0.0.0 ssl.gstatic.com
-0.0.0.0 syenitetatler.tech
-0.0.0.0 sync.crwdcntrl.net
-0.0.0.0 sync.sharethis.com
-0.0.0.0 tags.crwdcntrl.net
-0.0.0.0 vpod1q.qa.lijit.com
-0.0.0.0 www.gstatic.com
-0.0.0.0 x.bidswitch.net
-0.0.0.0 x01.aidata.io
-0.0.0.0 blogger.googleusercontent.com
-0.0.0.0 fonts.gstatic.com
-0.0.0.0 qb.cizecedens.com
-0.0.0.0 i2.wp.com
-0.0.0.0 snacklink.id
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 metamask.github.io
-0.0.0.0 oploverz-5.disqus.com
-0.0.0.0 toto88.de
-
 #now i know that pihole does block ip too, so
 # DELETE ALL THE GAMBLE ADS
 # For now I got the ads from crack anime sites or smth
